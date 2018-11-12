@@ -4,8 +4,6 @@ TipCalc is a tip calculator application for iOS.
 
 Submitted by: Varun Chennamadhava
 
-Time spent: 2 hours spent in total
-
 ## User Stories
 
 The following **required** functionality is complete:
