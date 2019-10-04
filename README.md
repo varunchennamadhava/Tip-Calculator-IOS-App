@@ -1,4 +1,4 @@
-# TipCalc
+# Tip Calculator IOS App
 
 TipCalc is a tip calculator application for iOS.
 
